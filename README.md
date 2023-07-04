@@ -9,3 +9,5 @@
 1. 매운거
 2. 양념
 ![image](https://github.com/jjingoh/readme-jjingoh/assets/138538552/92b27000-f5c0-4c51-8a3d-0083c6ae4292)
+
+pr을 위한 추가
